@@ -1,4 +1,5 @@
 class Pokemon {
+  nombre;
   accionDeVuelo;
   accionDeDefensa;
 
